@@ -10,7 +10,7 @@ y = getTax(45.90, 0.05)
 print(y)
 
 x = 0
-while x < 5:
+while x < 4:
     x += 1
     print(x)
 
